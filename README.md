@@ -8,7 +8,7 @@
 
 ## System Screenshot:
 
-![Screenshot taken on 2024-05-27 at 16:15:55](screenshot_link_here)
+![334055613-a1af1681-bfe1-45e9-ac48-ec1af6d28af2](https://github.com/WT2072861996/MMECHREVO-S1-Pro-OpenCore1.0/assets/113539098/52901eee-0603-4f21-a10e-0de4b9d1eff2)
 
 ## Driver Status:
 
