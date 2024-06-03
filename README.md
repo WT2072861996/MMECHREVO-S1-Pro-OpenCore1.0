@@ -1,34 +1,23 @@
-详细配置：
+# Detailed Configuration:
 
-cpu：i5 8265U
+- **CPU:** Intel Core i5 8265U
+- **Graphics Card:** MAX250
+- **Motherboard:** MECHREVO (Default String)
+- **Hard Drive:** S50AF 512GB
+- **Network Card:** Wireless-AC 9560
 
-显卡：MAX250
+## System Screenshot:
 
-主板：MECHREVO Default string
+![Screenshot taken on 2024-05-27 at 16:15:55](screenshot_link_here)
 
-硬盘：S50AF 512GB
+## Driver Status:
 
-网卡：wireless-AC 9560
+- Audio Card
+- Network Card
+- Graphics Card
+- USB
+- Battery
+- Keyboard
+- Touchpad
 
-
-系统截图：
-
-![截屏2024-05-27 16 15 55](https://github.com/WT2072861996/MMECHREVO-S1-Pro-OpenCore1.0/assets/113539098/a1af1681-bfe1-45e9-ac48-ec1af6d28af2)
-
-驱动情况：
-
-声卡
-
-网卡
-
-显卡
-
-USB
-
-电池
-
-键盘
-
-触控板
-
-以上就是目前情况，会持续更新，有需要可以收藏一下
+This is the current situation, and updates will continue. Feel free to bookmark it if needed.
