@@ -41,3 +41,14 @@ Intel Core i5-8265U | UHD 620 | 512 GB NVMe | Whiskey Lake
 ---
 
 *This configuration is under active development.*
+
+
+---
+
+## 📄 许可证
+
+MIT License - 详见 [LICENSE](LICENSE)
+
+> ⚠️ 本教程仅供学习和研究使用
+
+
